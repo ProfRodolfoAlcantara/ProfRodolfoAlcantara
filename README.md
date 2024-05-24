@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently working on Physics and Tecnology teaching.
+I’m currently learning how to teach Tecnology with Alura plataform.
 <!--
 **ProfRodolfoAlcantara/ProfRodolfoAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
