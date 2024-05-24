@@ -4,6 +4,8 @@
 - I’m currently learning how to teach Tecnology with Alura plataform.
 - Contact-me with an e-mail to rodolfoalcantara@prof.educacao.sp.gov.br
 
+
+
 <!--
 **ProfRodolfoAlcantara/ProfRodolfoAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
